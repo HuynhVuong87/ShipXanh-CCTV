@@ -1,0 +1,12 @@
+{
+  "uids": [
+    {
+      "id": "UwJFPAYc24RQaWEuU20ETlzS98n1",
+      "info": "zl Leetam"
+    },
+    {
+      "id": "oa12BUT7xZNuoPybm05YkVmkZwu2",
+      "info": "zl Nguyễn Hoàng Khôi"
+    }
+  ]
+}
