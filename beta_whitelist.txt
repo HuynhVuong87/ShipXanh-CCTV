@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "9DCfgWkxeFhOcwfcgW7PALuY45t2",
+      "info": "zl Đổ Thánh"
+    },
+    {
       "id": "BstUtbRwNadfgcxuHbWORtMOSMq2",
       "info": "zl Mai Anh"
     },
