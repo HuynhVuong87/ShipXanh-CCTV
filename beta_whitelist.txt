@@ -21,10 +21,6 @@
       "info": "zl Thanh Hân"
     },
     {
-      "id": "xv2MDUaaTWb50aaSWq42kYoEeO32",
-      "info": "zl Huong"
-    },
-    {
       "id": "GGzjsMRZZBfj9Myejlb9Lf8Cnzn2",
       "info": "zl Duy Dang"
     },
