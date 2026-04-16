@@ -2,6 +2,10 @@
   "uids": [
     {
       "id": "TFXAATUb0bWO0sCxnUBfLdlxa3C3",
+      "info": "zl Vương Truyền Thông"
+    },
+    {
+      "id": "TFXAATUb0bWO0sCxnUBfLdlxa3C3",
       "info": "zl Phạm Đức Long"
     },
     {
