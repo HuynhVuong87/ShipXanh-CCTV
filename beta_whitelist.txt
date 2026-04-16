@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "NBXVFH8mHxeDBj8GQpdR9J3W1hi2",
+      "info": "zl Lê Trường"
+    },
+    {
       "id": "NbfpaOGHrYTnGNUinX6vhWgNXC43",
       "info": "zl Phúc Chim"
     },
