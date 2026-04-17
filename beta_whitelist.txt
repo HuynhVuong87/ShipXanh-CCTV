@@ -1,10 +1,6 @@
 {
   "uids": [
     {
-      "id": "xv2MDUaaTWb50aaSWq42kYoEeO32",
-      "info": "zl Hương"
-    },
-    {
       "id": "DpWFmEPy7dcURckDlAOVd4Tsd0p2",
       "info": "zl Sơn Thuỷ Aqua"
     },
