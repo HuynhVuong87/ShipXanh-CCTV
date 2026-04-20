@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "tysL0pGSwGPA0RJ71lbYOg7ABMk2",
+      "info": "zl Minh Trang"
+    },
+    {
       "id": "SIbLCad6yTchs9DfWZJ4x33GHLv2",
       "info": "zl Trung Dũng"
     },
