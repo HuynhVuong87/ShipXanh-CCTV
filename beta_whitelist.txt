@@ -1,14 +1,6 @@
 {
   "uids": [
     {
-      "id": "tysL0pGSwGPA0RJ71lbYOg7ABMk2",
-      "info": "zl Minh Trang"
-    },
-    {
-      "id": "SIbLCad6yTchs9DfWZJ4x33GHLv2",
-      "info": "zl Trung Dũng"
-    },
-    {
       "id": "yRFKnj4knWMsI6vOfS6E8aLUya62",
       "info": "zl Tiến - Bách Hoá Dũng Mơ"
     },
