@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "BXQOMbGfS8UFLA9L3EmsJ4MXRfk2",
+      "info": "zl Đá Phong Thuỷ Ninh Thuận"
+    },
+    {
       "id": "IindKty2C4QE57LqpQP1VhrGQkd2",
       "info": "zl Thái Hòa"
     },
