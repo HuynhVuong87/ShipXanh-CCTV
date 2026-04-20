@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "SIbLCad6yTchs9DfWZJ4x33GHLv2",
+      "info": "zl Trung Dũng"
+    },
+    {
       "id": "yRFKnj4knWMsI6vOfS6E8aLUya62",
       "info": "zl Tiến - Bách Hoá Dũng Mơ"
     },
