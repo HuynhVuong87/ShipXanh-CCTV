@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "fIFJlO8IWXR2JbWsBR7R1YBU3f22",
+      "info": "zl Huấn Nguyễn"
+    },
+    {
       "id": "BXQOMbGfS8UFLA9L3EmsJ4MXRfk2",
       "info": "zl Đá Phong Thuỷ Ninh Thuận"
     },
