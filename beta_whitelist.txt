@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "yRVVJhvY7catFc9jlwW4oWYBQ4F2",
+      "info": "zl Tổng kho nhựa xe điện"
+    },
+    {
       "id": "YWJYUpewftYOcXXLfK67H4C80GQ2",
       "info": "zl Nnd Tươi - Kế Toán Kho"
     },
