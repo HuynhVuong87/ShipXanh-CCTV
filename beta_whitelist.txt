@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "YWJYUpewftYOcXXLfK67H4C80GQ2",
+      "info": "zl Nnd Tươi - Kế Toán Kho"
+    },
+    {
       "id": "KvdXKT8vFpcP8oFcCkIdj2XX7Xr1",
       "info": "zl Tấn Phát"
     },
