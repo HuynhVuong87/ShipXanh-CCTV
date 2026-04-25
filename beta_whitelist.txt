@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "fMxT2ma0DueFpq3IRGrF79UGuuo2",
+      "info": "zl Nguyễn Vân Anh"
+    },
+    {
       "id": "yRVVJhvY7catFc9jlwW4oWYBQ4F2",
       "info": "zl Tổng kho nhựa xe điện"
     },
