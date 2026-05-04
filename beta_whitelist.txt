@@ -1,10 +1,6 @@
 {
   "uids": [
     {
-      "id": "QvUYv277blOG1W5LegNXCB5Ap1q1",
-      "info": "Nguyen Long"
-    },
-    {
       "id": "ZL9NPth28dO8OKByHicpY9WT4A23",
       "info": "Phạm Cương"
     },
