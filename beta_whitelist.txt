@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "JCGse2NdN5UezPmozWcfcZ8xMjy1",
+      "info": "Du Học Dabosa"
+    },
+    {
       "id": "3Tvl2quQ75aKSA8jKVINnux4Gh32",
       "info": "Trung Văn 2"
     },
