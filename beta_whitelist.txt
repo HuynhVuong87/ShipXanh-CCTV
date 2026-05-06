@@ -1,10 +1,6 @@
 {
   "uids": [
     {
-      "id": "XeAQik4XAOONj4L63W6qFjBxGTu2",
-      "info": "Uni Shop"
-    },
-    {
       "id": "1JQFdIDNeJP3qYDlTw5hqoqLwAO2",
       "info": "Thuận Kao"
     },
