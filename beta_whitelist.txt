@@ -1,6 +1,10 @@
 {
   "uids": [
     {
+      "id": "XeAQik4XAOONj4L63W6qFjBxGTu2",
+      "info": "Uni Shop"
+    },
+    {
       "id": "DadDbLxjabd4IUV06zMdbBvgVIP2",
       "info": "Huyền Vịt"
     },
